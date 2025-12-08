@@ -1,0 +1,37 @@
+{
+  "name": "ContentCurateAI",
+  "type": "content",
+  "description": "ContentCurateAI is an AI-driven content curation platform that leverages Web3 technology to provide small businesses with personalized, niche-specific content tailored to their brand and audience.",
+  "generated_at": "2025-12-06T12:39:15.655517",
+  "components": [
+    "spec",
+    "build",
+    "deploy",
+    "spec_requirements",
+    "spec_architecture",
+    "build_code",
+    "build_test"
+  ],
+  "files_written": [
+    "businesses\\production_test\\content\\contentcurateai\\src\\components\\component.tsx",
+    "businesses\\production_test\\content\\contentcurateai\\__tests__\\component.test.tsx",
+    "businesses\\production_test\\content\\contentcurateai\\vercel.json",
+    "businesses\\production_test\\content\\contentcurateai\\src\\components\\requirements.tsx",
+    "businesses\\production_test\\content\\contentcurateai\\__tests__\\architecture.test.tsx",
+    "businesses\\production_test\\content\\contentcurateai\\vercel.json",
+    "businesses\\production_test\\content\\contentcurateai\\src\\components\\test.tsx",
+    "businesses\\production_test\\content\\contentcurateai\\src\\app\\layout.tsx",
+    "businesses\\production_test\\content\\contentcurateai\\src\\app\\globals.css",
+    "businesses\\production_test\\content\\contentcurateai\\src\\app\\page.tsx"
+  ],
+  "tasks_completed": 7,
+  "tasks_failed": 0,
+  "ap2_estimated_cost": 45.2,
+  "ap2_estimated_tokens": 19500,
+  "ap2_generation_approval": null,
+  "infrastructure_approvals": {
+    "analytics": null,
+    "database": null,
+    "storage": null
+  }
+}
